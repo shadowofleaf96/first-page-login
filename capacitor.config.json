@@ -1,0 +1,8 @@
+{
+    "appId": "ma.mk.reactloginpage",
+    "appName": "reactloginpage",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+  }
